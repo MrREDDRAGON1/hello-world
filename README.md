@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+Hello I am MrREDRAGON my favorite thing to do is code :D
